@@ -8,15 +8,23 @@ This project includes implementations of various data structures and algorithms,
 
 ### Task 1: Data Structures. Sorting. Working with a Singly Linked List
 - `task1.py`: Implements functions to reverse a singly linked list, sort a singly linked list, and merge two sorted singly linked lists.
+![image](https://github.com/ArturLaski/goit-algo-fp/assets/162509395/b060e362-f200-49b3-84f6-f5ae5aa3eb6f)
+
 
 ### Task 2: Recursion. Creating the "Pythagorean Tree" Fractal
 - `task2.py`: Uses recursion to create and visualize the "Pythagorean Tree" fractal.
+![image](https://github.com/ArturLaski/goit-algo-fp/assets/162509395/187348a8-8422-4735-8105-7d32b6a5f3bc)
+
 
 ### Task 3: Trees, Dijkstra's Algorithm
 - `task3.py`: Develops Dijkstra's algorithm to find the shortest paths in a weighted graph using a binary heap.
+![image](https://github.com/ArturLaski/goit-algo-fp/assets/162509395/d786e628-e279-40d9-8a9b-ebed2596349f)
+
 
 ### Task 4: Visualization of the Heap
 - `task4.py`: Constructs and visualizes binary trees, including a binary heap.
+![image](https://github.com/ArturLaski/goit-algo-fp/assets/162509395/d0f5ffc1-2892-4647-a83a-0df6f6dfdd00)
+
 
 ### Task 5: Visualization of Binary Tree Traversal
 - `task5.py`: Visualizes in-depth and breadth-first traversal of binary trees using different colors for nodes.
